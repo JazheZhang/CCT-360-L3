@@ -7,7 +7,7 @@
 // ---------- GLOBAL VARIABLES ----------
 // Declared OUTSIDE any function, so every function below can read and change them.
 
-let folder = "images/";     // where the photos live
+let folder = "";     // where the photos live
 let extension = "svg";      // file type of every image
 let totalSteps = 3;         // beginning, middle, end
 
