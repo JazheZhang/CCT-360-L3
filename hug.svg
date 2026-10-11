@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-label="Two people hugging on a platform">
+  <!-- background -->
+  <rect width="600" height="440" fill="#ead9cf"/>
+  <rect y="330" width="600" height="110" fill="#8c8f94"/>
+  <rect y="330" width="600" height="10" fill="#e7d24a"/>
+  <!-- soft light behind them -->
+  <circle cx="300" cy="210" r="150" fill="#f6e3b4" opacity="0.7"/>
+  <!-- person on the left -->
+  <circle cx="255" cy="120" r="34" fill="#7a4b2f"/>
+  <path d="M215 170 Q255 145 300 175 L305 340 L215 340 Z" fill="#3f6d8c"/>
+  <!-- person on the right -->
+  <circle cx="345" cy="128" r="32" fill="#2b2b2b"/>
+  <path d="M300 175 Q345 152 385 178 L385 340 L295 340 Z" fill="#c95c43"/>
+  <!-- arms wrapping around -->
+  <path d="M225 200 Q300 250 375 205" fill="none" stroke="#3f6d8c" stroke-width="22" stroke-linecap="round"/>
+  <path d="M375 215 Q300 265 225 220" fill="none" stroke="#c95c43" stroke-width="22" stroke-linecap="round"/>
+  <!-- suitcase at their feet -->
+  <rect x="420" y="285" width="70" height="55" rx="8" fill="#a8432e"/>
+  <rect x="440" y="275" width="30" height="12" rx="5" fill="none" stroke="#5e2418" stroke-width="5"/>
+</svg>

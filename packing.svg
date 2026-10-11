@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-label="An open suitcase being packed on a bed">
+  <!-- wall and floor -->
+  <rect width="600" height="440" fill="#e9dcc6"/>
+  <rect y="320" width="600" height="120" fill="#b98e62"/>
+  <!-- window -->
+  <rect x="400" y="50" width="140" height="120" fill="#f7efe0" stroke="#7a5a3a" stroke-width="8"/>
+  <line x1="470" y1="50" x2="470" y2="170" stroke="#7a5a3a" stroke-width="6"/>
+  <line x1="400" y1="110" x2="540" y2="110" stroke="#7a5a3a" stroke-width="6"/>
+  <!-- bed -->
+  <rect x="40" y="250" width="520" height="80" rx="10" fill="#f4f1ea"/>
+  <rect x="40" y="300" width="520" height="30" fill="#d9cbb3"/>
+  <rect x="50" y="330" width="16" height="40" fill="#6b4a2c"/>
+  <rect x="534" y="330" width="16" height="40" fill="#6b4a2c"/>
+  <!-- open suitcase: lid -->
+  <rect x="150" y="130" width="260" height="120" rx="12" fill="#a8432e"/>
+  <rect x="165" y="145" width="230" height="95" rx="6" fill="#c95c43"/>
+  <!-- open suitcase: base -->
+  <rect x="140" y="245" width="280" height="60" rx="10" fill="#8f3725"/>
+  <!-- folded clothes -->
+  <rect x="160" y="228" width="80" height="26" rx="4" fill="#3f6d8c"/>
+  <rect x="160" y="212" width="80" height="20" rx="4" fill="#e7b04a"/>
+  <rect x="250" y="226" width="70" height="28" rx="4" fill="#f4f1ea"/>
+  <rect x="330" y="230" width="75" height="24" rx="4" fill="#5a8a5c"/>
+  <!-- a framed photo tucked in -->
+  <rect x="268" y="196" width="36" height="34" fill="#fff" stroke="#333" stroke-width="3" transform="rotate(-8 286 213)"/>
+  <!-- handle -->
+  <rect x="255" y="305" width="50" height="10" rx="5" fill="#5e2418"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-label="A train waiting at an empty platform">
+  <!-- sky -->
+  <rect width="600" height="440" fill="#c9d6e3"/>
+  <circle cx="500" cy="80" r="40" fill="#f6e3b4"/>
+  <!-- canopy -->
+  <rect x="0" y="40" width="600" height="30" fill="#4a5563"/>
+  <rect x="60" y="70" width="12" height="230" fill="#4a5563"/>
+  <rect x="528" y="70" width="12" height="230" fill="#4a5563"/>
+  <!-- station clock -->
+  <circle cx="300" cy="110" r="28" fill="#fff" stroke="#4a5563" stroke-width="6"/>
+  <line x1="300" y1="110" x2="300" y2="92" stroke="#222" stroke-width="4"/>
+  <line x1="300" y1="110" x2="314" y2="116" stroke="#222" stroke-width="3"/>
+  <line x1="300" y1="70" x2="300" y2="82" stroke="#4a5563" stroke-width="4"/>
+  <!-- train -->
+  <rect x="0" y="170" width="600" height="130" rx="8" fill="#2f6b6b"/>
+  <rect x="0" y="270" width="600" height="14" fill="#e7b04a"/>
+  <rect x="30" y="195" width="90" height="55" rx="6" fill="#d8e4ea"/>
+  <rect x="150" y="195" width="90" height="55" rx="6" fill="#d8e4ea"/>
+  <rect x="270" y="190" width="60" height="80" rx="4" fill="#245757"/>
+  <rect x="360" y="195" width="90" height="55" rx="6" fill="#d8e4ea"/>
+  <rect x="480" y="195" width="90" height="55" rx="6" fill="#d8e4ea"/>
+  <!-- platform -->
+  <rect x="0" y="300" width="600" height="140" fill="#8c8f94"/>
+  <rect x="0" y="300" width="600" height="12" fill="#e7d24a"/>
+  <!-- bench -->
+  <rect x="380" y="360" width="140" height="12" fill="#6b4a2c"/>
+  <rect x="390" y="372" width="10" height="30" fill="#4a3320"/>
+  <rect x="500" y="372" width="10" height="30" fill="#4a3320"/>
+  <!-- lone suitcase on the platform -->
+  <rect x="150" y="345" width="70" height="55" rx="8" fill="#a8432e"/>
+  <rect x="170" y="335" width="30" height="12" rx="5" fill="none" stroke="#5e2418" stroke-width="5"/>
+</svg>
