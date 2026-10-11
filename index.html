@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Power of Sequencing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 id="storyTitle"></h1>
+    <p class="intro" id="storyTagline"></p>
+
+    <div class="version-buttons">
+      <button id="btnA" class="version-btn active">Version A</button>
+      <button id="btnB" class="version-btn">Version B</button>
+    </div>
+
+  </header>
+
+  <main>
+    <section class="sequence">
+      <figure class="frame" data-index="0">
+        <span class="stage">Beginning</span>
+        <img id="img0" src="" alt="">
+        <figcaption id="cap0"></figcaption>
+      </figure>
+
+      <figure class="frame" data-index="1">
+        <span class="stage">Middle</span>
+        <img id="img1" src="" alt="">
+        <figcaption id="cap1"></figcaption>
+      </figure>
+
+      <figure class="frame" data-index="2">
+        <span class="stage">End</span>
+        <img id="img2" src="" alt="">
+        <figcaption id="cap2"></figcaption>
+      </figure>
+    </section>
+
+    <div class="progress">
+      <div id="progressFill"></div>
+    </div>
+
+    <div class="step-controls">
+      <button id="prevBtn">Previous</button>
+      <span id="stepLabel"></span>
+      <button id="nextBtn">Next</button>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
